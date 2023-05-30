@@ -28,7 +28,7 @@ while True:
         buttons = [
             {
                 "label": "View Source Code",
-                "url": "https://github.com/developer-egg",
+                "url": "https://github.com/developer-egg/joke-presence",
             }
         ]
 
